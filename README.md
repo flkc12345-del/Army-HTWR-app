@@ -1,1 +1,1 @@
-WTHR Calculator 
+
